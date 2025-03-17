@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v24.12.2",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.12.2",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.12.2",
+    "commit": {
+      "sha": "d8e7993feadc2c61f2f93d168154ff2661e3ed60",
+      "url": "https://api.github.com/repos/KDE/kate/commits/d8e7993feadc2c61f2f93d168154ff2661e3ed60"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4xMi4y"
+  },
+  {
+    "name": "v24.12.1",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.12.1",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.12.1",
+    "commit": {
+      "sha": "498bc23fefa8d33ae367ed01063eae84223ec704",
+      "url": "https://api.github.com/repos/KDE/kate/commits/498bc23fefa8d33ae367ed01063eae84223ec704"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4xMi4x"
+  },
+  {
+    "name": "v24.12.0",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.12.0",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.12.0",
+    "commit": {
+      "sha": "cff4b0ae92e61d0a802bd8a4d55de5557279cea8",
+      "url": "https://api.github.com/repos/KDE/kate/commits/cff4b0ae92e61d0a802bd8a4d55de5557279cea8"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4xMi4w"
+  },
+  {
+    "name": "v24.11.90",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.11.90",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.11.90",
+    "commit": {
+      "sha": "5c82d001601b89fb3777e4e382dc3def4781152f",
+      "url": "https://api.github.com/repos/KDE/kate/commits/5c82d001601b89fb3777e4e382dc3def4781152f"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4xMS45MA=="
+  },
+  {
+    "name": "v24.11.80",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.11.80",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.11.80",
+    "commit": {
+      "sha": "0808b0dee8fc17bbf029902a9f47e741eeabb0da",
+      "url": "https://api.github.com/repos/KDE/kate/commits/0808b0dee8fc17bbf029902a9f47e741eeabb0da"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4xMS44MA=="
+  },
+  {
+    "name": "v24.08.3",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.08.3",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.08.3",
+    "commit": {
+      "sha": "26c0c44d2239fd334c36ee4b18e6d2f71fed2d38",
+      "url": "https://api.github.com/repos/KDE/kate/commits/26c0c44d2239fd334c36ee4b18e6d2f71fed2d38"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4wOC4z"
+  },
+  {
+    "name": "v24.08.2",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.08.2",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.08.2",
+    "commit": {
+      "sha": "18fc2181e5ed27f940a7903067ee77f0ec0ddbc5",
+      "url": "https://api.github.com/repos/KDE/kate/commits/18fc2181e5ed27f940a7903067ee77f0ec0ddbc5"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4wOC4y"
+  },
+  {
+    "name": "v24.08.1",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.08.1",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.08.1",
+    "commit": {
+      "sha": "df0152b21a8d4efba1e9128896ff5bbcbc2855f8",
+      "url": "https://api.github.com/repos/KDE/kate/commits/df0152b21a8d4efba1e9128896ff5bbcbc2855f8"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4wOC4x"
+  },
+  {
+    "name": "v24.08.0",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.08.0",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.08.0",
+    "commit": {
+      "sha": "0386f8c229446c0d1f1c647a57b2d3aa5b216421",
+      "url": "https://api.github.com/repos/KDE/kate/commits/0386f8c229446c0d1f1c647a57b2d3aa5b216421"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4wOC4w"
+  },
+  {
+    "name": "v24.07.90",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.07.90",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.07.90",
+    "commit": {
+      "sha": "f8c1c5012f0e7d3ff04200c086461992096cbd8e",
+      "url": "https://api.github.com/repos/KDE/kate/commits/f8c1c5012f0e7d3ff04200c086461992096cbd8e"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4wNy45MA=="
+  },
+  {
+    "name": "v24.07.80",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.07.80",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.07.80",
+    "commit": {
+      "sha": "cbf605f99ba996c6c6719f54df0713a1d1b37b06",
+      "url": "https://api.github.com/repos/KDE/kate/commits/cbf605f99ba996c6c6719f54df0713a1d1b37b06"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4wNy44MA=="
+  },
+  {
+    "name": "v24.05.2",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.05.2",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.05.2",
+    "commit": {
+      "sha": "fdae56c2bc496a4dd86123c83328cd4aacd48943",
+      "url": "https://api.github.com/repos/KDE/kate/commits/fdae56c2bc496a4dd86123c83328cd4aacd48943"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4wNS4y"
+  },
+  {
+    "name": "v24.05.1",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.05.1",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.05.1",
+    "commit": {
+      "sha": "5463122d9ca5a8daf377a37c6c5787cb0f1ba882",
+      "url": "https://api.github.com/repos/KDE/kate/commits/5463122d9ca5a8daf377a37c6c5787cb0f1ba882"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4wNS4x"
+  },
+  {
+    "name": "v24.05.0",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.05.0",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.05.0",
+    "commit": {
+      "sha": "6100c7b63fc2f2f77844e169ff60e1569f5800ee",
+      "url": "https://api.github.com/repos/KDE/kate/commits/6100c7b63fc2f2f77844e169ff60e1569f5800ee"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4wNS4w"
+  },
+  {
+    "name": "v24.04.90",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.04.90",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.04.90",
+    "commit": {
+      "sha": "3d6222f4a1089f9a8b46d02e65b7286395495e45",
+      "url": "https://api.github.com/repos/KDE/kate/commits/3d6222f4a1089f9a8b46d02e65b7286395495e45"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4wNC45MA=="
+  },
+  {
+    "name": "v24.04.80",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.04.80",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.04.80",
+    "commit": {
+      "sha": "9c83bb90e734d8421d1e636a6c0dc6a45d400afc",
+      "url": "https://api.github.com/repos/KDE/kate/commits/9c83bb90e734d8421d1e636a6c0dc6a45d400afc"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4wNC44MA=="
+  },
+  {
+    "name": "v24.02.2",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.02.2",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.02.2",
+    "commit": {
+      "sha": "bc57011a316f813cf030320f7a4e37e5664af183",
+      "url": "https://api.github.com/repos/KDE/kate/commits/bc57011a316f813cf030320f7a4e37e5664af183"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4wMi4y"
+  },
+  {
+    "name": "v24.02.1",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.02.1",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.02.1",
+    "commit": {
+      "sha": "f09928e45afbabd365f554707ed447c0372ed393",
+      "url": "https://api.github.com/repos/KDE/kate/commits/f09928e45afbabd365f554707ed447c0372ed393"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4wMi4x"
+  },
+  {
+    "name": "v24.02.0",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.02.0",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.02.0",
+    "commit": {
+      "sha": "437a7a5c5907f80c71ebb70324774fcd64255b44",
+      "url": "https://api.github.com/repos/KDE/kate/commits/437a7a5c5907f80c71ebb70324774fcd64255b44"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4wMi4w"
+  },
+  {
+    "name": "v24.01.95",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.01.95",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.01.95",
+    "commit": {
+      "sha": "7b6888e8bbb1283bbbb897b51df07d828adfe40c",
+      "url": "https://api.github.com/repos/KDE/kate/commits/7b6888e8bbb1283bbbb897b51df07d828adfe40c"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4wMS45NQ=="
+  },
+  {
+    "name": "v24.01.90",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.01.90",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.01.90",
+    "commit": {
+      "sha": "db25350f0f8dd5e2cc8e5ae0e698a6d5ff640d84",
+      "url": "https://api.github.com/repos/KDE/kate/commits/db25350f0f8dd5e2cc8e5ae0e698a6d5ff640d84"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4wMS45MA=="
+  },
+  {
+    "name": "v24.01.85",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.01.85",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.01.85",
+    "commit": {
+      "sha": "2ebf056d97d47e2a218960eed2a9f8c86c5efd67",
+      "url": "https://api.github.com/repos/KDE/kate/commits/2ebf056d97d47e2a218960eed2a9f8c86c5efd67"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4wMS44NQ=="
+  },
+  {
+    "name": "v24.01.80",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.01.80",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.01.80",
+    "commit": {
+      "sha": "46a0d9cade5e6f72a6209eeaa68041f5cdeef592",
+      "url": "https://api.github.com/repos/KDE/kate/commits/46a0d9cade5e6f72a6209eeaa68041f5cdeef592"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4wMS44MA=="
+  },
+  {
+    "name": "v24.01.75",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v24.01.75",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v24.01.75",
+    "commit": {
+      "sha": "f0c6d789b4efb05fdd8ac6b18f4fcb45e55e9a8b",
+      "url": "https://api.github.com/repos/KDE/kate/commits/f0c6d789b4efb05fdd8ac6b18f4fcb45e55e9a8b"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyNC4wMS43NQ=="
+  },
+  {
+    "name": "v23.08.5",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v23.08.5",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v23.08.5",
+    "commit": {
+      "sha": "72298000a030aedd52c2f95034bac8834c3ff454",
+      "url": "https://api.github.com/repos/KDE/kate/commits/72298000a030aedd52c2f95034bac8834c3ff454"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyMy4wOC41"
+  },
+  {
+    "name": "v23.08.4",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v23.08.4",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v23.08.4",
+    "commit": {
+      "sha": "7eda97d87c13626241bb4021c8daba16a85ebef2",
+      "url": "https://api.github.com/repos/KDE/kate/commits/7eda97d87c13626241bb4021c8daba16a85ebef2"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyMy4wOC40"
+  },
+  {
+    "name": "v23.08.3",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v23.08.3",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v23.08.3",
+    "commit": {
+      "sha": "65eabb27b1bf3ecdacf2070ad7fd6410318025cd",
+      "url": "https://api.github.com/repos/KDE/kate/commits/65eabb27b1bf3ecdacf2070ad7fd6410318025cd"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyMy4wOC4z"
+  },
+  {
+    "name": "v23.08.2",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v23.08.2",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v23.08.2",
+    "commit": {
+      "sha": "e95063e221488cea0b6cad56e94bce2c084daabe",
+      "url": "https://api.github.com/repos/KDE/kate/commits/e95063e221488cea0b6cad56e94bce2c084daabe"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyMy4wOC4y"
+  },
+  {
+    "name": "v23.08.1",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v23.08.1",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v23.08.1",
+    "commit": {
+      "sha": "275825f4d39018a9aa0c7870a3eb6dcfc6e092fe",
+      "url": "https://api.github.com/repos/KDE/kate/commits/275825f4d39018a9aa0c7870a3eb6dcfc6e092fe"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyMy4wOC4x"
+  },
+  {
+    "name": "v23.08.0",
+    "zipball_url": "https://api.github.com/repos/KDE/kate/zipball/refs/tags/v23.08.0",
+    "tarball_url": "https://api.github.com/repos/KDE/kate/tarball/refs/tags/v23.08.0",
+    "commit": {
+      "sha": "6d58cf207c0947e4df8eb2c551ad251cd7f09297",
+      "url": "https://api.github.com/repos/KDE/kate/commits/6d58cf207c0947e4df8eb2c551ad251cd7f09297"
+    },
+    "node_id": "MDM6UmVmNDI3MjAyMzA6cmVmcy90YWdzL3YyMy4wOC4w"
+  }
+]

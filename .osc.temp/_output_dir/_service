@@ -1,0 +1,12 @@
+<services>
+  <service name="download_url">
+     <param name="host">api.github.com</param>
+     <param name="protocol">https</param>
+     <param name="path">/repos/KDE/kate/tags</param>
+  </service>
+  <service name="set_version">
+     <param name="fromfile">_service:download_url:tags</param>
+     <param name="regex">.*"name"\s*:\s*"v?(.*)".*</param>
+  </service>
+  <service name="download_files" />
+</services>
