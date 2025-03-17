@@ -141,34 +141,7 @@ make test ARGS="--output-on-failure --timeout 20" -C %{_target_platform} ||:
 %files plugins -f plugins.lang
 %{_kf6_datadir}/kateproject/
 %{_kf6_datadir}/katexmltools/
-%{_kf6_plugindir}/ktexteditor/compilerexplorer.so
-%{_kf6_plugindir}/ktexteditor/externaltoolsplugin.so
-%{_kf6_plugindir}/ktexteditor/katebacktracebrowserplugin.so
-%{_kf6_plugindir}/ktexteditor/katebuildplugin.so
-%{_kf6_plugindir}/ktexteditor/katecloseexceptplugin.so
-%{_kf6_plugindir}/ktexteditor/katecolorpickerplugin.so
-%{_kf6_plugindir}/ktexteditor/katectagsplugin.so
-%{_kf6_plugindir}/ktexteditor/katefilebrowserplugin.so
-%{_kf6_plugindir}/ktexteditor/katefiletreeplugin.so
-%{_kf6_plugindir}/ktexteditor/kategdbplugin.so
-%{_kf6_plugindir}/ktexteditor/kategitblameplugin.so
-%{_kf6_plugindir}/ktexteditor/katekonsoleplugin.so
-%{_kf6_plugindir}/ktexteditor/kateprojectplugin.so
-%{_kf6_plugindir}/ktexteditor/katereplicodeplugin.so
-%{_kf6_plugindir}/ktexteditor/katesearchplugin.so
-%{_kf6_plugindir}/ktexteditor/katesnippetsplugin.so
-%{_kf6_plugindir}/ktexteditor/katesqlplugin.so
-%{_kf6_plugindir}/ktexteditor/katesymbolviewerplugin.so
-%{_kf6_plugindir}/ktexteditor/katexmlcheckplugin.so
-%{_kf6_plugindir}/ktexteditor/katexmltoolsplugin.so
-%{_kf6_plugindir}/ktexteditor/keyboardmacrosplugin.so
-%{_kf6_plugindir}/ktexteditor/ktexteditorpreviewplugin.so
-%{_kf6_plugindir}/ktexteditor/latexcompletionplugin.so
-%{_kf6_plugindir}/ktexteditor/lspclientplugin.so
-%{_kf6_plugindir}/ktexteditor/openlinkplugin.so
-%{_kf6_plugindir}/ktexteditor/rainbowparens.so
-%{_kf6_plugindir}/ktexteditor/tabswitcherplugin.so
-%{_kf6_plugindir}/ktexteditor/textfilterplugin.so
+%{_kf6_plugindir}/ktexteditor/*.so
 
 %files -n kwrite -f kwrite.lang
 %{_kf6_bindir}/kwrite
